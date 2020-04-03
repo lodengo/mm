@@ -9,15 +9,20 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.7.6",
+    "antd": "^4.0.4",
+    "bcrypt": "^4.0.1",
+    "indexof": "0.0.1",
     "meteor-node-stubs": "^1.0.0",
     "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react-addons-pure-render-mixin": "^15.6.2",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^5.1.2",
+    "react-transition-group": "^4.3.0"
   },
-  "meteor": {
-    "mainModule": {
-      "client": "client/main.jsx",
-      "server": "server/main.js"
-    },
-    "testModule": "tests/main.js"
+  "browserlist": [
+    "defaults"
+  ],
+  "devDependencies": {
+    
   }
 }

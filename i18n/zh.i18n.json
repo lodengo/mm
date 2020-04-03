@@ -1,0 +1,27 @@
+{
+    "_locale": "zh-CN",
+    "hello": "world",
+    "pages": {
+        "LoginPage":{
+            "usernameRequired": "请输入账号",
+            "passwordRequired": "请输入密码",
+            "signIn": "立即登录",            
+            "needAccount": "注册",
+            "loginErr": "用户名或密码错误"
+        },
+        "RegisterPage": {
+            "emailRequired": "请输入邮箱",
+            "passwordRequired": "请输入密码",
+            "passwordConfirm": "请输入确认密码",
+            "join": "注册.",           
+            "yourEmail": "邮箱",
+            "password": "密码",
+            "confirmPassword": "确认密码",
+            "joinNow": "注册",
+            "haveAccountSignIn": "登录"
+          },
+        "DesktopPage": {
+            "logout": "注销"
+        }
+    }    
+}
